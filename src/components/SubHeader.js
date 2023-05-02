@@ -20,5 +20,7 @@ const SubHeader = ({ current, detail }) => {
                 <hr />
             </Col>
         </Row>
-    )
-}
+    );
+};
+
+export default SubHeader;
